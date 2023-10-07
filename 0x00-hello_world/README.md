@@ -1,0 +1,1 @@
+This is the readme file for the Hello world project. The projects will be about low level programming, covering the fundamentals of the course and all essentials necessary for effective learning and coding.

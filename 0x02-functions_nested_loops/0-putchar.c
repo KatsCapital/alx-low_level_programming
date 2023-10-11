@@ -1,5 +1,10 @@
 #include "main.h"
-int main(void)
+/**
+ * This is the first of my putchar projects.
+ *
+ */
+
+int main (void)
 {
 	_putchar('_');
 	_putchar('p');

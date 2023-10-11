@@ -1,4 +1,7 @@
 #include <stdio.h>
+/**
+ * This is the method to add two different sums toget
+ */
 
 int main(void)
 {

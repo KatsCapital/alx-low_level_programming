@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 /**
- * 1 2 Fizz 4 Buzz Fizz 7 8 
- * Fizz Buzz 11 Fizz
- * 13 14 FizzBuzz 16 17 Fizz 19 Buzz
+ * main - prints the numbers from 1 to 100, followed by a new line
+ * but for multiples of three prints Fizz instead of the number
+ * and for the multiples of five prints Buzz
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int i;
